@@ -1,0 +1,43 @@
+.titulo {
+    font-size: 2em;
+    color: #4CAF50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-size: 2em;
+}
+
+.enviar {
+    display: block;
+    width: 100px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.ano {
+    font-size: 30px;
+    color: #333;
+    margin-top: 5px;
+}
+
+.idade {
+    font-size: 30px;
+    color: #333;
+    margin-top: 5px;
+}
